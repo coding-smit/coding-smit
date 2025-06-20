@@ -13,8 +13,7 @@ I specialize in **HTML, CSS, JavaScript, React, and Next.js**, and I enjoy learn
 
 ### 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=smit&theme=gruvbox&rank=S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 📊 GitHub Stats
