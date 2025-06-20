@@ -1,4 +1,9 @@
 # Hi 👋, I'm Smit
+### 📈 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=smit&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 I'm a passionate **Frontend Developer** who loves turning creative designs into functional, user-friendly web interfaces.  
 I specialize in **HTML, CSS, JavaScript, React, and Next.js**, and I enjoy learning modern frontend technologies.
@@ -22,8 +27,4 @@ I specialize in **HTML, CSS, JavaScript, React, and Next.js**, and I enjoy learn
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smit&layout=compact&theme=radical)
 
 ---
-
-### 📈 Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=smit&label=Profile%20views&color=0e75b6&style=flat)
 
