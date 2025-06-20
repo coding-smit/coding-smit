@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Smit
 
-<!--
-**coding-smit/coding-smit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** who loves turning creative designs into functional, user-friendly web interfaces.  
+I specialize in **HTML, CSS, JavaScript, React, and Next.js**, and I enjoy learning modern frontend technologies.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Backend Devlopement**
+- 💻 I love building beautiful, responsive UI/UX
+#- 🌍 All of my projects are available at: [your-portfolio-link-here]
+- 💬 Ask me about anything related to **Frontend Development**
+- ⚡ Fun fact: I enjoy solving UI challenges and exploring new design trends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=smit&theme=gruvbox&rank=S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 GitHub Stats
+
+![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smit&layout=compact&theme=radical)
+
+---
+
+### 📈 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=smit&label=Profile%20views&color=0e75b6&style=flat)
+
