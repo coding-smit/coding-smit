@@ -67,7 +67,7 @@ I specialize in **HTML, CSS, JavaScript, React, and Next.js**, and I enjoy learn
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 
 <p align="center">
-    <a href="https://github.com/U7P4L-IN">
+    <a href="https://github.com/coding-smit">
           <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
@@ -86,7 +86,7 @@ I specialize in **HTML, CSS, JavaScript, React, and Next.js**, and I enjoy learn
  </a></p>
 <p align="center">
 <a href="https://github.com/Coding-smit">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coding-smit&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-smit&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
