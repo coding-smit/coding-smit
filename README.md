@@ -93,8 +93,7 @@ I specialize in **HTML, CSS, JavaScript, React, and Next.js**, and I enjoy learn
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <!-- Contribution Snake -->
-<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
-
+<p align="center"><img src="./assets/github-contribution-grid-snake.svg"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <!-- Footer -->
