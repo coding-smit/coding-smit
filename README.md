@@ -1,3 +1,25 @@
+<img width=100% title="CODING SMIT" alt="ANONYMOUS U7P4L" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+
+<table border="0">
+ <tr>
+    <td>
+      <br>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coding-smit;"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=Coding-smit&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Coding-smit"/>
+      <br>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Coding-smit&data=followers,repositories,stars,commits&theme=viridescent"/>
+    <td>
+      <img alt="gif" src="./assets/images/demon-sleyar.gif">
+      <div class="tenor-gif-embed" data-postid="16333388" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/sayian-dragon-ball-z-jiren-goku-fight-gif-16333388">Sayian Dragon Ball Z GIF</a>from <a href="https://tenor.com/search/sayian-gifs">Sayian GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+   </td>  
+ </tr>  
+</table>
+
+<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
+</b></h3>
+
+
+
 #Hi 👋, I'm Smit
 ### 📈 Profile Views
 
