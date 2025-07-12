@@ -32,7 +32,7 @@ I specialize in **HTML, CSS, JavaScript, React, and Next.js**, and I enjoy learn
 
 - 🌱 I’m currently learning **Backend Devlopement**
 - 💻 I love building beautiful, responsive UI/UX
-#- 🌍 All of my projects are available at: [your-portfolio-link-here]
+#- 🌍 All of my projects are available at: https://coding-smit.github.io/Portfolio-smit/
 - 💬 Ask me about anything related to **Frontend Development**
 - ⚡ Fun fact: I enjoy solving UI challenges and exploring new design trends
 
